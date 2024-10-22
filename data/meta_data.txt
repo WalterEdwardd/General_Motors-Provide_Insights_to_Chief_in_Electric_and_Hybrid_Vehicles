@@ -44,7 +44,10 @@ Few Key Points:
 
 3. Compound Annual Growth Rate (CAGR): CAGR measures the mean annual growth rate over a specified period longer than one year. It is calculated as:
 		CAGR = [(Ending Value / Beginning Value) ** 1/n] -1
-
+where:
+- ending value: the value at the end of the period
+- beginning value: the value at the beginning of the period
+- n: the number of years (or periods)
 
 
 
